@@ -1,0 +1,14 @@
+C:\Users\Егор\source\repos\Practices\Practices\bin\Debug\net7.0\Practices.exe
+C:\Users\Егор\source\repos\Practices\Practices\bin\Debug\net7.0\Practices.deps.json
+C:\Users\Егор\source\repos\Practices\Practices\bin\Debug\net7.0\Practices.runtimeconfig.json
+C:\Users\Егор\source\repos\Practices\Practices\bin\Debug\net7.0\Practices.dll
+C:\Users\Егор\source\repos\Practices\Practices\bin\Debug\net7.0\Practices.pdb
+C:\Users\Егор\source\repos\Practices\Practices\obj\Debug\net7.0\Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\source\repos\Practices\Practices\obj\Debug\net7.0\Practices.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\Practices\Practices\obj\Debug\net7.0\Practices.AssemblyInfo.cs
+C:\Users\Егор\source\repos\Practices\Practices\obj\Debug\net7.0\Practices.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\Practices\Practices\obj\Debug\net7.0\Practices.dll
+C:\Users\Егор\source\repos\Practices\Practices\obj\Debug\net7.0\refint\Practices.dll
+C:\Users\Егор\source\repos\Practices\Practices\obj\Debug\net7.0\Practices.pdb
+C:\Users\Егор\source\repos\Practices\Practices\obj\Debug\net7.0\Practices.genruntimeconfig.cache
+C:\Users\Егор\source\repos\Practices\Practices\obj\Debug\net7.0\ref\Practices.dll
