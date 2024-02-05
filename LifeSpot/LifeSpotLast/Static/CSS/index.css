@@ -1,0 +1,74 @@
+﻿.video-container {
+    display: inline-block;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+.navbar {
+    color: darkgray;
+    padding-left: 15%;
+}
+
+.navbar a:hover {
+    color: red;
+}
+
+header {
+    padding-left: 1%;
+    padding-top: 1.2%;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    font-size: medium;
+    color: dimgrey;
+    line-height: 66%;
+    padding-left: 1%;
+}
+
+aside {
+    height: 100%;
+    width: 10%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 2%;
+    font-size: large;
+}
+
+body {
+    padding-left: 11%;
+}
+
+header, footer, aside, body, .navbar, .video-container {
+    font-family: "Helvetica 65 Medium", sans-serif;
+}
+
+header {
+    color: black;
+    padding-left: 1%;
+    padding-top: 1.2%;
+}
+
+#header-index {
+    color: #44453f;
+}
+
+header, footer, body, .video-container {
+    background-color: linen;
+}
+
+.search-input {
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.search-input:focus {
+    border-color: #007bff;
+    outline: none;
+}
